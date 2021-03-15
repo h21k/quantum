@@ -10,3 +10,4 @@ Quantum Machine Learning
 + PyTorch & PennyLane 
 + Paddle Quantum
 + ProjectQ
++ Flask deployment
